@@ -1,6 +1,6 @@
 # PvpSoup
 
-###### Simple plugin allowing you to define a different border for each world on your server.
+###### Simple plugin to create soups for pvp.
 
 ## Config
 ```yaml
